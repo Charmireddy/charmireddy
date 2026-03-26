@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Charmee</h1>
+<h1 align="center">Hi 👋, I'm Charmi Reddy</h1>
 <h3 align="center">Java Full Stack Developer | Software Engineer</h3>
 
 🎯 Focused on Backend Systems, Java & AI
@@ -7,10 +7,11 @@
 
 ## 🚀 About Me
 
-* Master's in Computer Science (USA)
-* Experience in Full Stack Development (Java + React)
-* Currently exploring **AI/ML & scalable backend systems**
-* Passionate about building **real-world systems**
+🎓 Master's in Computer Science in the USA
+💻 Experience in Java Full Stack Development
+⚙️ Interested in backend systems, concurrency, and scalable applications
+🤖 Currently exploring AI/ML and Generative AI
+🚀 Passionate about building real-world software solutions
 
 ---
 
@@ -45,6 +46,7 @@
 * Built using Semaphore for concurrency control
 * Simulated 100 concurrent threads using CountDownLatch
 * Demonstrates thread-safe design
+* https://charmireddy.github.io/request-rate-limiter/
 
 
 ## 📈 Currently Learning
