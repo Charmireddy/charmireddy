@@ -7,11 +7,11 @@
 
 ## 🚀 About Me
 
-🎓 Master's in Computer Science in the USA
-💻 Experience in Java Full Stack Development
-⚙️ Interested in backend systems, concurrency, and scalable applications
-🤖 Currently exploring AI/ML and Generative AI
-🚀 Passionate about building real-world software solutions
+* 🎓 Master's in Computer Science in the USA
+* 💻 Experience in Java Full Stack Development
+* ⚙️ Interested in backend systems, concurrency, and scalable applications
+* 🤖 Currently exploring AI/ML and Generative AI
+* 🚀 Passionate about building real-world software solutions
 
 ---
 
