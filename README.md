@@ -78,6 +78,21 @@
 
 ---
 
+### 🛰️ eBay Request Tracker Starter (Spring Boot)
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Auto Config](https://img.shields.io/badge/Auto--Configuration-blueviolet?style=flat&logo=spring&logoColor=white)
+![MDC Logging](https://img.shields.io/badge/MDC%20Logging-Correlation%20IDs-blue?style=flat&logo=logstash&logoColor=white)
+
+- 🔍 &nbsp;Built a **Spring Boot Auto-Configuration Starter** with MDC correlation ID logging
+- 🪪 &nbsp;Auto-stamps every HTTP request with a `correlationId` for end-to-end tracing
+- ⚙️ &nbsp;Uses `@ConditionalOnClass`, `@ConditionalOnProperty` & `@ConditionalOnMissingBean`
+- 🚀 &nbsp;`@PostConstruct` startup banner + `@PreDestroy` graceful shutdown hooks
+
+[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://charmireddy.github.io/Request_tracker_starter/)
+
+---
+
 ## 📈 Currently Learning
 
 ![System Design](https://img.shields.io/badge/System%20Design-0A66C2?style=for-the-badge&logo=blueprint&logoColor=white)
@@ -98,22 +113,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-![Charmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=charmireddy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+⚡ **Fun Fact:** I once wrote a Semaphore that carefully blocked 100 threads… then went to work where 800,000 users hit the server at once. Turns out production doesn't wait for permits 😅
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charmireddy&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-⚡ **Fun Fact:** I enjoy solving complex backend problems and optimizing performance 🚀
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=charmireddy.charmireddy)
+![](https://komarev.com/ghpvc/?username=charmireddy&color=orange&style=flat-square&label=Profile+Views)
 
 </div>
