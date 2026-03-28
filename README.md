@@ -78,7 +78,7 @@
 
 ---
 
-### 🛰️ eBay Request Tracker Starter (Spring Boot)
+### 🛰️ Request Tracker Starter (Spring Boot)
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Auto Config](https://img.shields.io/badge/Auto--Configuration-blueviolet?style=flat&logo=spring&logoColor=white)
